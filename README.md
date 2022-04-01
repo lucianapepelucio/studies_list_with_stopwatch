@@ -1,3 +1,15 @@
+# Aplicação em React com Typescript
+
+Esse projeto permite:
+- Adicionar as tarefas que desejamos estudar
+- Colocar o tempo dedicado a esses estudos
+- Quando adicionadas, essas tarefas vão para uma lista onde será possível selecioná-las
+- Com a tarefa selecionada, o tempo dessa tarefa vai diretamente para um cronômetro
+- Após isso, conseguimos iniciar essa tarefa apertando o botão começar que ativará o temporizador
+- O temporizador chegando a zero, a tarefa será completada e não será mais possível clicar sobre a tarefa
+
+![Imagem do Projeto](./src/assets/img/projeto.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
